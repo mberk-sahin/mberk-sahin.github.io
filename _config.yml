@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "BerkScholarCropped.png"
+  avatar           : "images/BerkScholarCropped.png"
   name             : "M. Berk Sahin"
   pronouns         : # example: "she/her"  
   bio              : "Generative AI, Optimization & Medical Imaging Foundation Models"
