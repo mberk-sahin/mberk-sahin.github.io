@@ -15,7 +15,7 @@ redirect_from:
 
 🫀 **Cardiac MRI:** I develop vision foundation models for cardiac MRI that leverage large-scale unlabeled data to improve downstream tasks such as segmentation, landmark detection, and disease classification, improving performance when only a small amount of expert-labeled data is available.
 
-Research Interests
+Research Interests  
 ======
 * Diffusion Models and Applications to Inverse Problems
 * Vision Foundation Models for Cardiac MRI
