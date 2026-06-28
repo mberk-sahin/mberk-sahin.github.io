@@ -1,7 +1,7 @@
 ---
 title: "Retrospective Phase-map Synthesis for CMR Datasets FBom Magnitude-only DICOM Images Enabled by A.I. Generative Models to Create Large Training Datasets for Deep Learning-based Image Reconstruction"
 collection: publications
-category: manuscripts
+category: abstracts
 permalink: /publication/2024-01-01-paper-title-number-a1
 excerpt: 'We propose a score-based diffusion model that synthesizes realistic cardiac MRI phase maps from magnitude-only images, enabling reconstruction of raw k-space data from routinely archived clinical scans. The generated phase maps are further validated by training a deep learning reconstruction model.'
 date: 2024-01-01
