@@ -96,6 +96,8 @@ publication_category:
     title: 'Abstracts'    
   conferences:
     title: 'Conference Papers'
+  journals:
+    title: 'Journal Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

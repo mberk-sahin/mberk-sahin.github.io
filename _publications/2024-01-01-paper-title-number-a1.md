@@ -2,14 +2,14 @@
 title: "Retrospective Phase-map Synthesis for CMR Datasets FBom Magnitude-only DICOM Images Enabled by A.I. Generative Models to Create Large Training Datasets for Deep Learning-based Image Reconstruction"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-01-01-paper-title-number-1
+permalink: /publication/2024-01-01-paper-title-number-a1
 excerpt: 'We propose a score-based diffusion model that synthesizes realistic cardiac MRI phase maps from magnitude-only images, enabling reconstruction of raw k-space data from routinely archived clinical scans. The generated phase maps are further validated by training a deep learning reconstruction model.'
 date: 2024-01-01
 venue: 'Journal of Cardiovascular Magnetic Resonance'
 presentation: 'Rapid-Fire Presentation' # 🔥 Rapid-Fire Presentation
 slidesurl: 'https://drive.google.com/file/d/1whwTwWkJf2FcBn4iWku7baWxDBevQf86/view?usp=sharing'
 paperurl: 'https://drive.google.com/file/d/1Bz-AC3YPPqNh3eDSyrtHwWr02E6V1DZD/view?usp=sharing'
-bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'
+#bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'
 codeurl: 'https://github.com/mberk-sahin/phase-map-synthesis-with-SBDM'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
