@@ -1,0 +1,13 @@
+---
+title: "Unified High-Probability Analysis of Stochastic Variance-Reduced Estimation"
+collection: publications
+category: preprints
+permalink: /publication/2026-05-14-paper-title-number-p2
+excerpt: 'We develop a unified framework for stochastic variance-reduced estimation that encompasses classical methods such as SPIDER, STORM, and PAGE while motivating new estimators. Our analysis establishes dimension-free high-probability guarantees in both Euclidean and non-Euclidean settings and improves the oracle complexity of stochastic optimization with expectation constraints from $$\tilde{\mathcal{O}}(\varepsilon^{-4})$$ to $$\tilde{\mathcal{O}}(\varepsilon^{-3})$$.'
+date: 2026-05-14
+venue: 'arXiv preprint arXiv:2605.15388'
+paperurl: 'https://arxiv.org/pdf/2605.15388'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+
+Stochastic estimators are fundamental to large-scale optimization, where population quantities must be inferred from noisy oracle observations. Although influential methods such as momentum, SPIDER, STORM, and PAGE have been highly successful, their analyses are largely estimator-specific and expectation-based, obscuring the structural tradeoffs that determine reliability. In this paper, we develop a unified framework for stochastic variance-reduced estimation based on a recursion with three components: memory retention, reset probability, and a correction term for iterate movement. This framework recovers several classical estimators, motivates new second-order variants, and yields a bias-variance decomposition of estimation error. Our main result is a unified high-probability bound proved using a new dimension-free vector-valued Freedman inequality, valid for smooth normed spaces involving random sums of vector martingales. The result applies in both Euclidean and non-Euclidean settings, including the analysis of mirror-descent-based methods in Banach spaces. As applications, we obtain high-probability oracle complexities for unconstrained optimization with mirror descent, establishing the logarithmic dependence on the confidence level. We also derive the first $$\tilde{\mathcal{O}}(\varepsilon^{-3})$$ oracle-complexity bounds for stochastic optimization with expectation constraints, improving upon the existing $$\tilde{\mathcal{O}}(\varepsilon^{-4})$$ complexity by leveraging variance-reduced estimation for the first time in this setting.
