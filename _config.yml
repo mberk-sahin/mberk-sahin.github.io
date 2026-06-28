@@ -29,7 +29,7 @@ talkmap_link             : false #change to true to add
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "BerkScholarCropped.png"
   name             : "M. Berk Sahin"
   pronouns         : # example: "she/her"  
   bio              : "Generative AI, Optimization & Medical Imaging Foundation Models"
