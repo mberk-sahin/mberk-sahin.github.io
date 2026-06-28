@@ -100,6 +100,8 @@ publication_category:
     title: 'Journal Papers'
   workshops:
     title: "Workshop Papers"
+  preprints:
+    title: "Preprints"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
