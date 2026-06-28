@@ -7,6 +7,7 @@ excerpt: 'We develop a foundation model-based approach for automated classificat
 date: 2026-03-01
 venue: 'Journal of Cardiovascular Magnetic Resonance'
 presentation: 'Oral Presentation'
+authors: 'Z. Li, <strong>M. B. Sahin</strong>, D. Yalcinkaya, A. M. Sohi, et al.'
 #slidesurl: 'https://drive.google.com/file/d/1yWo2pFYGmrDkglH_8H5yfX2XTBliwtke/view?usp=sharing'
 paperurl: 'https://www.journalofcmr.com/action/showPdf?pii=S1097-6647%2825%2900399-0'
 #bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'

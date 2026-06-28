@@ -67,11 +67,12 @@
 }
 
 .publication__meta {
+  margin-top: 0;
   line-height: 1.5;
 }
 
 .publication__authors {
-  margin: 0.25em 0 0.05em;
+  margin: 0.05em 0 0.05em;
   color: var(--global-text-color);
   font-size: 0.9em;
   line-height: 1.45;

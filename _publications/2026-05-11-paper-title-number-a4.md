@@ -1,10 +1,10 @@
 ---
-title: "Adapting a CMR foundation model for A.I.-powered analysis of perfusion CMR: Enabling 12-fold reduction in manually labeled training dataset for automatic segmentation"
+title: "Foundation model for cardiac perfusion MRI enables 10-fold reduction in labeled dataset size for deep-learning analysis"
 collection: publications
 category: abstracts
-permalink: /publication/2026-03-01-paper-title-number-a4
+permalink: /publication/2026-05-11-paper-title-number-a4
 excerpt: 'We propose the largest-scale cardiac perfusion MRI foundation model trained on > 600,000 unlabeled multi-center images, achieving state-of-the-art performance for automatic segmentation with over 10-fold fewer manual labels, reducing reliance on manual annotation, and providing a reusable model for other tasks.'
-date: 2026-03-01
+date: 2026-05-11
 venue: 'Proceedings of International Society for Magnetic Resonance Imaging (ISMRM)'
 authors: '<strong>M. B. Sahin</strong>, Z. Li, K. Youssef, A. M. Sohi, et al.'
 presentation: 'Oral Presentation'

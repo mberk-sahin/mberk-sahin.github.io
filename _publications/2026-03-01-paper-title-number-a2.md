@@ -7,6 +7,7 @@ excerpt: 'We introduce a localized normalized root-mean-square error (NRMSE) met
 date: 2026-03-01
 venue: 'Journal of Cardiovascular Magnetic Resonance'
 presentation: 'Oral Presentation'
+authors: '<strong>M. B. Sahin</strong>, D. Yalcinkaya, H. B. Unal, K. Youssef, et al.'
 slidesurl: 'https://drive.google.com/file/d/1yWo2pFYGmrDkglH_8H5yfX2XTBliwtke/view?usp=sharing'
 paperurl: 'https://www.journalofcmr.com/action/showPdf?pii=S1097-6647%2825%2900455-7'
 #bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'

@@ -7,6 +7,8 @@ excerpt: 'This work addresses the scarcity of raw k-space MRI data by synthesizi
 date: 2026-01-01
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
 presentation: 'Poster Presentation' #
+
+authors: '<strong>M. B. Sahin*</strong>, D. Yalcinkaya*, A. Hashemi, B. Sharif'
 #slidesurl: 'https://drive.google.com/file/d/1whwTwWkJf2FcBn4iWku7baWxDBevQf86/view?usp=sharing'
 posterurl: 'https://drive.google.com/file/d/1cdCxAx3jrcOVqQmaEYcBN6M-_zWIWBGh/view?usp=sharing'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2026W/PHAROS-AIF-MIH/papers/Sahin_Phase-map_synthesis_from_magnitude-only_MR_images_using_conditional_score-based_diffusion_CVPRW_2026_paper.pdf'

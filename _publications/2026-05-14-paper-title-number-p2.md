@@ -6,6 +6,7 @@ permalink: /publication/2026-05-14-paper-title-number-p2
 excerpt: 'We develop a unified framework for stochastic variance-reduced estimation that encompasses classical methods such as SPIDER, STORM, and PAGE while motivating new estimators. Our analysis establishes dimension-free high-probability guarantees in both Euclidean and non-Euclidean settings and improves the oracle complexity of stochastic optimization with expectation constraints from $$\tilde{\mathcal{O}}(\varepsilon^{-4})$$ to $$\tilde{\mathcal{O}}(\varepsilon^{-3})$$.'
 date: 2026-05-14
 venue: 'arXiv preprint arXiv:2605.15388'
+authors: 'Z. Luo*, A. Upadhyay*, <strong>M. B. Sahin</strong>, S. B. Moon, et al.'
 paperurl: 'https://arxiv.org/pdf/2605.15388'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

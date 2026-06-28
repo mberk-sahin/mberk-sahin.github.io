@@ -7,6 +7,7 @@ excerpt: 'We propose a score-based diffusion model that synthesizes realistic ca
 date: 2024-01-01
 venue: 'Journal of Cardiovascular Magnetic Resonance'
 presentation: 'Rapid-Fire Presentation' # 🔥 Rapid-Fire Presentation
+authors: '<strong>M. B. Sahin*</strong>, D. Yalcinkaya*, B. Dharmakumar, A. Hashemi, et al.'
 slidesurl: 'https://drive.google.com/file/d/1whwTwWkJf2FcBn4iWku7baWxDBevQf86/view?usp=sharing'
 paperurl: 'https://drive.google.com/file/d/1Bz-AC3YPPqNh3eDSyrtHwWr02E6V1DZD/view?usp=sharing'
 #bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'

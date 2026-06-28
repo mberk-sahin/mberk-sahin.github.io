@@ -7,6 +7,7 @@ excerpt: 'We present AGA3DNet, a report-grounded framework for 3D brain MRI subt
 date: 2026-01-01
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
 presentation: 'Poster Presentation'
+authors: 'P. Duan, X. Guo, S. Farhand, <strong>M. B. Sahin</strong>, et al.'
 #slidesurl: 'https://drive.google.com/file/d/1Ze9yWSQH6BU9uC7GJYFrO8pG9gAArsFi/view?usp=sharing'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2026W/CV4Clinic2026/papers/Duan_AGA3DNet_Anatomy-Guided_Gaussian_Priors_with_Multi-view_xLSTM_for_3D_Brain_CVPRW_2026_paper.pdf'
 #bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'

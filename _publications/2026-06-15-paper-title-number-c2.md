@@ -7,6 +7,7 @@ excerpt: 'Developed the first variance-reduced Langevin sampling algorithms with
 date: 2026-06-15
 venue: 'Proceedings of the Forty-third Conference on Uncertainty in Artificial Intelligence'
 presentation: 'Poster Presentation'
+authors: '<strong>M. B. Sahin</strong>, A. E. Tanriverdi, B. Sharif, A. Hashemi'
 #slidesurl: 'https://drive.google.com/file/d/1whwTwWkJf2FcBn4iWku7baWxDBevQf86/view?usp=sharing'
 paperurl: 'https://arxiv.org/pdf/2606.16257'
 #bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'

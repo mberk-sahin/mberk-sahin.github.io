@@ -7,6 +7,8 @@ excerpt: 'This paper introduces an anatomy-guided framework for weakly supervise
 date: 2026-01-01
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
 presentation: 'Oral Presentation' #
+
+authors: '<strong>M. B. Sahin</strong>, Y. Shinagawa, H. Z. Yerebakan, A. Hashemi, et al.'
 slidesurl: 'https://drive.google.com/file/d/1Ze9yWSQH6BU9uC7GJYFrO8pG9gAArsFi/view?usp=sharing'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2026W/PHAROS-AIF-MIH/papers/Sahin_Multimodal_Abnormality_Classifier_Using_Anatomy-Guided_Connection_for_3D_Medical_Images_CVPRW_2026_paper.pdf'
 #bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'

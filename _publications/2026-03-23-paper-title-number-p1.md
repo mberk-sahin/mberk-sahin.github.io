@@ -6,6 +6,7 @@ permalink: /publication/2026-03-23-paper-title-number-p1
 excerpt: 'We develop RAMPAGE, an unbiased randomized extrapolation method for variational inequalities that eliminates the discretization bias of classical Extragradient methods. We further introduce a variance-reduced variant, RAMPAGE+, and establish convergence guarantees for root finding, constrained variational inequalities, and smooth convex-concave games, demonstrating improved theoretical and practical performance.'
 date: 2026-03-23
 venue: 'arXiv preprint arXiv:2603.22155'
+authors: 'Z. Luo*, <strong>M. B. Sahin*</strong>, A. Upadhyay*, B. Sharif, et al.'
 paperurl: 'https://arxiv.org/pdf/2603.22155'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

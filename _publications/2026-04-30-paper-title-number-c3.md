@@ -7,6 +7,8 @@ excerpt: 'Developed the first provably convergent zeroth-order Langevin sampling
 date: 2026-04-30
 venue: 'Proceedings of the Forty-third International Conference on Machine Learning'
 presentation: 'Poster Presentation'
+
+authors: '<strong>M. B. Sahin</strong>, B. Sharif, A. Hashemi'
 slidesurl: 'https://icml.cc/media/icml-2026/Slides/63673.pdf'
 paperurl: 'https://openreview.net/pdf?id=UlFOINq6SY'
 posterurl: 'https://icml.cc/media/PosterPDFs/ICML%202026/63673.png?t=1782359467.350254'

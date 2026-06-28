@@ -8,6 +8,7 @@ date: 2023-06-04
 venue: 'ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 presentation: 'Poster Presentation'
 #slidesurl: 'https://drive.google.com/file/d/1whwTwWkJf2FcBn4iWku7baWxDBevQf86/view?usp=sharing'
+authors: 'E. C. Kaya*, <strong>M. B. Sahin*</strong>, A. Hashemi'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10096148'
 #bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'
 codeurl: 'https://github.com/mberk-sahin/EF_ZO_SGD'

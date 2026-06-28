@@ -7,6 +7,7 @@ excerpt: 'We develop a communication-efficient federated algorithm for distribut
 date: 2023-06-09
 venue: 'IEEE Access'
 #presentation: 'Poster Presentation'
+authors: 'E. C. Kaya*, <strong>M. B. Sahin*</strong>, A. Hashemi'
 #slidesurl: 'https://drive.google.com/file/d/1whwTwWkJf2FcBn4iWku7baWxDBevQf86/view?usp=sharing'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10147304'
 #bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'
