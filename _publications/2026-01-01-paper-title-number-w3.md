@@ -1,14 +1,14 @@
 ---
-title: "Multimodal Abnormality Classifier Using Anatomy-Guided Connection for 3D Medical Images"
+title: "AGA3DNet: Anatomy-Guided Gaussian Priors with Multi-view xLSTM for 3D Brain MRI Subtype Classification"
 collection: publications
 category: workshops
-permalink: /publication/2026-01-01-paper-title-number-w2
-excerpt: 'This paper introduces an anatomy-guided framework for weakly supervised abnormality classification in 3D medical images using radiology reports. By combining anatomical attention maps generated from segmentation and language models with a Mamba-based 3D classifier, the proposed method significantly improves classification accuracy and F1 score over existing approaches.'
+permalink: /publication/2026-01-01-paper-title-number-w3
+excerpt: 'We present AGA3DNet, a report-grounded framework for 3D brain MRI subtype classification that integrates anatomical phrases from radiology reports as soft spatial priors. By combining anatomy-guided attention with a lightweight 3D CNN and multi-view xLSTM aggregation, AGA3DNet improves classification performance over strong 3D baselines while providing interpretable, anatomy-aware localization without requiring voxel-level annotations.'
 date: 2026-01-01
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
-presentation: 'Oral Presentation' #
-slidesurl: 'https://drive.google.com/file/d/1Ze9yWSQH6BU9uC7GJYFrO8pG9gAArsFi/view?usp=sharing'
-paperurl: 'https://openaccess.thecvf.com/content/CVPR2026W/PHAROS-AIF-MIH/papers/Sahin_Multimodal_Abnormality_Classifier_Using_Anatomy-Guided_Connection_for_3D_Medical_Images_CVPRW_2026_paper.pdf'
+presentation: 'Poster Presentation'
+#slidesurl: 'https://drive.google.com/file/d/1Ze9yWSQH6BU9uC7GJYFrO8pG9gAArsFi/view?usp=sharing'
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2026W/CV4Clinic2026/papers/Duan_AGA3DNet_Anatomy-Guided_Gaussian_Priors_with_Multi-view_xLSTM_for_3D_Brain_CVPRW_2026_paper.pdf'
 #bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'
 #codeurl: 'https://github.com/mberk-sahin/phase-map-synthesis-with-SBDM'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

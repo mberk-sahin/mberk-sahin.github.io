@@ -5,9 +5,10 @@ category: workshops
 permalink: /publication/2026-01-01-paper-title-number-w1
 excerpt: 'This work addresses the scarcity of raw k-space MRI data by synthesizing realistic phase maps from magnitude-only MR images using conditional score-based diffusion models. The generated phase maps enable the creation of synthetic k-space datasets for training deep learning MRI reconstruction models. We show that models trained on the synthesized data outperform GAN- and smooth phase-based alternatives and achieve reconstruction quality close to training with real k-space data.'
 date: 2026-01-01
-venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026'
+venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
 presentation: 'Poster Presentation' #
 #slidesurl: 'https://drive.google.com/file/d/1whwTwWkJf2FcBn4iWku7baWxDBevQf86/view?usp=sharing'
+posterurl: 'https://drive.google.com/file/d/1cdCxAx3jrcOVqQmaEYcBN6M-_zWIWBGh/view?usp=sharing'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2026W/PHAROS-AIF-MIH/papers/Sahin_Phase-map_synthesis_from_magnitude-only_MR_images_using_conditional_score-based_diffusion_CVPRW_2026_paper.pdf'
 #bibtexurl: 'https://api.crossref.org/works/10.1016%2Fj.jocmr.2024.100987/transform/application/x-bibtex'
 codeurl: 'https://github.com/mberk-sahin/phase-map-synthesis-with-SBDM'

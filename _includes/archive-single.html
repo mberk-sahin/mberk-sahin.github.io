@@ -65,6 +65,8 @@
     {% capture publication_links %}
       {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% assign has_publication_link = true %}{% endif %}
       {% if post.slidesurl %}{% if has_publication_link %} | {% endif %}<a href="{{ post.slidesurl }}">Slides</a>{% assign has_publication_link = true %}{% endif %}
+      {% if post.posterurl %}{% if has_publication_link %} | {% endif %}<a href="{{ post.posterurl }}">Poster</a>{% assign has_publication_link = true %}{% endif %}
+      {% if post.videourl %}{% if has_publication_link %} | {% endif %}<a href="{{ post.videourl }}">Video</a>{% assign has_publication_link = true %}{% endif %}
       {% if post.bibtexurl %}{% if has_publication_link %} | {% endif %}<a href="{{ post.bibtexurl }}">BibTeX</a>{% assign has_publication_link = true %}{% endif %}
       {% if post.codeurl %}{% if has_publication_link %} | {% endif %}<a href="{{ post.codeurl }}">Code</a>{% assign has_publication_link = true %}{% endif %}
     {% endcapture %}

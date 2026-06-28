@@ -60,6 +60,8 @@ layout: default
         {% capture publication_links %}
           {% if page.paperurl %}<a href="{{ page.paperurl }}">Paper</a>{% assign has_publication_link = true %}{% endif %}
           {% if page.slidesurl %}{% if has_publication_link %} | {% endif %}<a href="{{ page.slidesurl }}">Slides</a>{% assign has_publication_link = true %}{% endif %}
+          {% if page.posterurl %}{% if has_publication_link %} | {% endif %}<a href="{{ page.posterurl }}">Poster</a>{% assign has_publication_link = true %}{% endif %}
+          {% if page.videourl %}{% if has_publication_link %} | {% endif %}<a href="{{ page.videourl }}">Video</a>{% assign has_publication_link = true %}{% endif %}
           {% if page.bibtexurl %}{% if has_publication_link %} | {% endif %}<a href="{{ page.bibtexurl }}">BibTeX</a>{% assign has_publication_link = true %}{% endif %}
           {% if page.codeurl %}{% if has_publication_link %} | {% endif %}<a href="{{ page.codeurl }}">Code</a>{% assign has_publication_link = true %}{% endif %}
         {% endcapture %}
