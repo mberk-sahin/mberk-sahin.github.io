@@ -6,6 +6,7 @@ permalink: /publication/2026-03-01-paper-title-number-a4
 excerpt: 'We propose the largest-scale cardiac perfusion MRI foundation model trained on > 600,000 unlabeled multi-center images, achieving state-of-the-art performance for automatic segmentation with over 10-fold fewer manual labels, reducing reliance on manual annotation, and providing a reusable model for other tasks.'
 date: 2026-03-01
 venue: 'Proceedings of International Society for Magnetic Resonance Imaging (ISMRM)'
+authors: '<strong>M. B. Sahin</strong>, Z. Li, K. Youssef, A. M. Sohi, et al.'
 presentation: 'Oral Presentation'
 slidesurl: 'https://drive.google.com/file/d/1ezVbIlm_FVS6XRSyn-BX3uiYJ7V3kgsf/view?usp=sharing'
 paperurl: 'https://echo.ismrm.org/abstracts/view/9434c721-7cc4-40de-8c0e-9eadd0bc5634'

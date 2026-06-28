@@ -70,6 +70,13 @@
   line-height: 1.5;
 }
 
+.publication__authors {
+  margin: 0.25em 0 0.05em;
+  color: var(--global-text-color);
+  font-size: 0.9em;
+  line-height: 1.45;
+}
+
 .publication__presentation {
   display: inline-block;
   margin-left: 0.6em;
